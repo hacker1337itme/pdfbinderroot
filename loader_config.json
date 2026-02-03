@@ -1,0 +1,10 @@
+{
+    "update_url": "https://your-update-server.com/api/check",
+    "pdf_marker": "%%SHELLCODE_PAYLOAD%%",
+    "shellcode_key": "your-very-secure-32byte-encryption-key!!",
+    "tor_proxy": "socks5://127.0.0.1:9050",
+    "auto_update": true,
+    "use_obfuscation": true,
+    "anti_analysis": true,
+    "max_retries": 3
+}
